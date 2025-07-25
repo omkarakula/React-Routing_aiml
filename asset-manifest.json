@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Routing_aiml/static/css/main.abea8940.css",
+    "main.js": "/React-Routing_aiml/static/js/main.3c895926.js",
+    "static/js/453.71617d8c.chunk.js": "/React-Routing_aiml/static/js/453.71617d8c.chunk.js",
+    "static/media/logo.svg": "/React-Routing_aiml/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/React-Routing_aiml/index.html",
+    "main.abea8940.css.map": "/React-Routing_aiml/static/css/main.abea8940.css.map",
+    "main.3c895926.js.map": "/React-Routing_aiml/static/js/main.3c895926.js.map",
+    "453.71617d8c.chunk.js.map": "/React-Routing_aiml/static/js/453.71617d8c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abea8940.css",
+    "static/js/main.3c895926.js"
+  ]
+}
